@@ -1,13 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HELLOHIDI&fontSize=70&animation=twinkling)
 
-## Hello Hidi 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHELLOHIDI8&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Hello Hidi 👋 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHELLOHIDI8&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 Good day! I am Huijae-Ryu who is interested in computer science
 - 🌱 I’m currently learning 'App development'
 - 👩🏻‍🎓 I'm majoring in Computer Science, at Kookmin University
 - 📫 How to reach me: fbgmlwo123@gmail.com
-- 🧐 My personal blog: https://velog.io/@hello_hidi [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://velog.io/@hello_hidi%2FHELLOHIDI8&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+- 🧐 My personal blog: https://velog.io/@hello_hidi 
 
 #### 🌠 Experience
 1. KMU Summer Internship Program - <a href="http://zerofounders.com/">ZERO FOUNDERS
