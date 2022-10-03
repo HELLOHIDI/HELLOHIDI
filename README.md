@@ -11,8 +11,8 @@ Good day! I am Huijae-Ryu who is interested in computer science
 - 🧐 My personal blog: https://velog.io/@hello_hidi 
 
 #### 🌠 Experience
-1. KMU Summer Internship Program - <a href="http://zerofounders.com/">ZERO FOUNDERS
-2. OSAM Online Hackathon - <a href="https://osam.kr/hackathon/awards?m=v&wdnId=86">TEAM CANARY
+1. KMU Summer Internship Program - <a href="http://zerofounders.com/">ZERO FOUNDERS</a>
+2. OSAM Online Hackathon - <a href="https://osam.kr/hackathon/awards?m=v&wdnId=86">TEAM CANARY</a>
 
 <h3>🛠 Tech Stack 🛠</h3>
 Techs that I've used at least once
