@@ -13,6 +13,7 @@ Good day! I am Huijae-Ryu who is interested in computer science
 #### 🌠 Experience
 1. KMU Summer Internship Program - <a href="http://zerofounders.com/">ZERO FOUNDERS</a>
 2. OSAM Online Hackathon - <a href="https://osam.kr/hackathon/awards?m=v&wdnId=86">TEAM CANARY</a>
+3. SOPT 31th iOS part - <a href="https://sopt.org">SOPT</a>
 
 <h3>🛠 Tech Stack 🛠</h3>
 Techs that I've used at least once
@@ -21,7 +22,7 @@ Techs that I've used at least once
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-E34F26?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
 
 <h3>  📷 Me 📷 </h3>
