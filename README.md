@@ -13,7 +13,7 @@ Good day! I am Huijae-Ryu who is interested in computer science
 #### 🌠 Experience
 1. KMU Summer Internship Program - <a href="http://zerofounders.com/">ZERO FOUNDERS</a>
 2. OSAM Online Hackathon - <a href="https://osam.kr/hackathon/awards?m=v&wdnId=86">TEAM CANARY</a>
-3. SOPT 31th iOS part - <a href="https://sopt.org">SOPT</a>
+3. SOPT 31/32th iOS part - <a href="https://sopt.org">SOPT</a>
 
 <h3>🛠 Tech Stack 🛠</h3>
 Techs that I've used at least once
