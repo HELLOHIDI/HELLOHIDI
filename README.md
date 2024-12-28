@@ -5,11 +5,11 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/HELLOHIDI?pet-id=646139054699829122"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/HELLOHIDI"
+  width="600"
+  height="300"
+/>
 </a>
   
 
